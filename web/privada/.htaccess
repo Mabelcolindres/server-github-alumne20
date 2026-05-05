@@ -1,3 +1,5 @@
+DirectoryIndex index.html
+
 AuthType Basic
 AuthName "Zona Privada"
 AuthUserFile /etc/apache2/.htpasswd
